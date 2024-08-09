@@ -1,1 +1,1 @@
-# Nutrition-analysis
+**Comprehensive nutrition analysis project using Python and Excel to clean, visualize, and analyze food data. The report provides insights into nutritional content across various food categories, aiding in making informed dietary choices**
